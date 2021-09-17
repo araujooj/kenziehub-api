@@ -7,7 +7,7 @@
 </h1>
 
 <p align = "center">
-Este é o backend da aplicação KenzieHub - Um hub de portfólios de programadores daqui da Kenzie! O objetivo dessa aplicação é conseguir criar um frontend de qualidade em grupo, utilizando o que foi ensinado no segundo módulo do curso (Q2) - E desenvolver hard skills e soft skills.
+Este é o backend da aplicação KenzieHub - Um hub de portfólios de programadores daqui da Kenzie! O objetivo dessa aplicação é conseguir criar um frontend de qualidade, utilizando o que foi ensinado no segundo módulo do curso (Q2) - E desenvolver hard skills e soft skills.
 </p>
 
 <blockquote align="center">“Sempre passar o que você aprendeu. - Mestre Yoda”</blockquote>
@@ -23,7 +23,7 @@ A API tem um total de 13 endpoints, sendo em volta principalmente do usuário (d
 O JSON para utilizar no Insomnia é este aqui -> https://kenziehub.s3.amazonaws.com/requests_kenziehub.json
 Para importar o JSON no Insomnia é só clicar na palavra "Insomnia" no canto superior esquerdo. Nesse dropdown é só clicar em "Import / Export > Import Data > From Url" e colocar o link acima :v:
 
-O url base da API é https://kenziehub.me
+O url base da API é https://kenziehub.herokuapp.com
 
 ## Rotas que não precisam de autenticação
 
